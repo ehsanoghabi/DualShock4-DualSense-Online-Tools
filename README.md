@@ -2,7 +2,7 @@
 
 A web-based calibration tool for PlayStation DualShock 4, DualSense, and DualSense Edge controllers using the WebHID API.
 
-The live version of this project is available at [https://dualshock-tools.github.io](https://dualshock-tools.github.io).
+The live version of this project is available at https://amoodigi.ir/online-tools/.
 
 No installation is required: simply open the website in a WebHID-compatible browser.
 
